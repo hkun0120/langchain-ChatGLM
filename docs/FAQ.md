@@ -62,7 +62,7 @@ A6: 此问题是系统环境问题，详细见  [在Anaconda中使用pip安装�
 
 Q7: 本项目中所需模型如何下载至本地？
 
-A7: 本项目中使用的模型均为 `huggingface.com`中可下载的开源模型，以默认选择的 `chatglm-6b`和 `text2vec-large-chinese`模型为例，下载模型可执行如下代码：
+A7: 本项目中使用的模型均为 `huggingface.co`中可下载的开源模型，以默认选择的 `chatglm-6b`和 `text2vec-large-chinese`模型为例，下载模型可执行如下代码：
 
 ```shell
 # 安装 git lfs
@@ -80,7 +80,7 @@ $ git pull
 
 ---
 
-Q8: `huggingface.com`中模型下载速度较慢怎么办？
+Q8: `huggingface.co`中模型下载速度较慢怎么办？
 
 A8: 可使用本项目用到的模型权重文件百度网盘地址：
 
